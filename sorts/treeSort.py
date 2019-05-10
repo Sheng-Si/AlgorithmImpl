@@ -1,3 +1,4 @@
+# coding=utf-8
 """
 基于Binary Search Tree(BST)排序
 BST是对于任意的node x，如果node y是node x的左边的节点, 那么Key(y) <= Key(x);
